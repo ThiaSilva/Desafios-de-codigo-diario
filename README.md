@@ -5,4 +5,5 @@ Neste repositorio posto meus desafios de codigo diario.
 |-----|----------|
 |Dia 1| [1000 - Hello World](https://github.com/ThiaSilva/Desafios-de-codigo-diario/tree/main/Desafios%20de%20Logica/Dia%201)|
 |Dia 2| [1001 - Extremamente Básico](https://github.com/ThiaSilva/Desafios-de-codigo-diario/tree/main/Desafios%20de%20Logica/Dia%202)|
-|Dia 3| [1001 - Área do Círculo](https://github.com/ThiaSilva/Desafios-de-codigo-diario/tree/main/Desafios%20de%20Logica/Dia%203)|
+|Dia 3| [1002 - Área do Círculo](https://github.com/ThiaSilva/Desafios-de-codigo-diario/tree/main/Desafios%20de%20Logica/Dia%203)|
+|Dia 4| [1003 - Soma Simples]([https://github.com/ThiaSilva/Desafios-de-codigo-diario/tree/main/Desafios%20de%20Logica/Dia%203](https://github.com/ThiaSilva/Desafios-de-codigo-diario/tree/main/Desafios%20de%20Logica/Dia%204))|
